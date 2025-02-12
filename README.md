@@ -12,7 +12,7 @@ The series were of weather, energy consumption and that of stocks.
 
 # Learning resources
 
-* [Complete course of time series analysis and forecasting](https://youtu.be/A3fowDMo8mM?si=4V9STjaMadRrQJF2 "Video")
+* [Complete course of time series analysis and forecasting in Hindi](https://youtu.be/A3fowDMo8mM?si=4V9STjaMadRrQJF2 "Video")
 * [Time series using Prophet](https://youtu.be/z3ZnOW-S550?si=G_rhS1qhL3Kn9xGh "Video")
 * [Prophet facebook docs](https://facebook.github.io/prophet/docs/quick_start.html#python-api "Docs")
 * [Time series using XGBoost](https://youtu.be/vV12dGe_Fho?si=9b6eT7lpP7Q-vT5P "Video")
