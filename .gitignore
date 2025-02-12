@@ -1,0 +1,12 @@
+.vscode
+.DS_Store
+model/best_model_keras.json
+model/best_multi_gru.keras
+model/conv1d_best_model.keras
+model/gru_best_model.keras
+model/lstm_multi_best_model.keras
+model/model1_weights.weights.h5
+model/model1.json
+model/model1.keras
+model/multi_conv1d_best_model.keras
+.history
